@@ -20,3 +20,16 @@
 </ul>
 
 Live demo: [Fast React Pizza](https://fast-react-pizza.onrender.com)
+
+### Installation & Usage 
+Clone Repository
+`git clone git@github.com:gautam3333/fast-react-pizza.git`
+
+Go to the project directory
+`cd fast-react-pizza`
+
+Install dependencies
+`npm install`
+
+Start server
+`npm run dev`
