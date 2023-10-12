@@ -19,7 +19,7 @@
   <li><strong>Styling: </strong>Tailwind CSS</li>
 </ul>
 
-Live demo: [Fast React Pizza](https://fast-react-pizza.onrender.com)
+Live demo: [Fast React Pizza](https://fast-react-pizza-pi.vercel.app/)
 
 ### Installation & Usage 
 Clone Repository
